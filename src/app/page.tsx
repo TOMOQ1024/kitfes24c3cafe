@@ -8,6 +8,7 @@ export default function Home() {
       <Link href='items'>商品管理ページ</Link>
       <Link href='analytics'>データ分析</Link>
       <Link href='analytics'>伝票がぴょこって出るやつ</Link>
+      <Link href='regiclose'>レジクローズ</Link>
     </main>
   );
 }
