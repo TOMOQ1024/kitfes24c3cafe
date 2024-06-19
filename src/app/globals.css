@@ -1,7 +1,8 @@
 :root {
   background-color: white;
   color: black;
-  --cartmenu-width: 300px;
+  --margin-size: 10px;
+  --padding-size: 10px;
 }
 
 * {
